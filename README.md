@@ -16,9 +16,11 @@ OmniFocus has an API, but it is in JavaScript and at this moment I can't really 
 Right now just clone this down and run it. 
 
 ## Defaul Emoji/Project pairing
- ❓ Question Project
- 🤔 Think About Project
- 📖 Book Project
+❓ Question Project
+
+🤔 Think About Project
+
+📖 Book Project
 
 ## Usage
 `sculpy [-h] [--config CONFIG] file`
